@@ -1,0 +1,14 @@
+@import "~bootstrap-scss/bootstrap.scss";
+@import "./colors/colors.scss";
+@import "./typology/typology.scss";
+@import "./login/login.scss";
+//layout
+@import "./layout/footer";
+@import "./layout/grid";
+@import "./layout/header";
+@import "./layout/navs";
+@import "./layout/sidebar";
+
+@import "~react-toastify/dist/ReactToastify.css";
+@import "./buttons/index.scss";
+@import "./card/index.scss";
